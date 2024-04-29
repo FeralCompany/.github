@@ -2,7 +2,7 @@
 
 Just a collection of mods made by [Ferus](https://github.com/FerusGrim) for fun, for the game [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/). Feel free to use them, or don't. Probably don't.
 
-## FeralCommon
+## [FeralCommon](https://github.com/FeralCompany/FeralCommon)
 
 A collection of common utilities and classes that are used across various FeralCompany projects.
 
@@ -10,7 +10,7 @@ A collection of common utilities and classes that are used across various FeralC
 [![Latest Version](https://img.shields.io/thunderstore/v/FeralCompany/FeralCommon?style=for-the-badge&logo=thunderstore)](https://thunderstore.io/c/lethal-company/p/FeralCompany/FeralCommon)
 [![Total Downloads](https://img.shields.io/thunderstore/dt/FeralCompany/FeralCommon?style=for-the-badge&logo=thunderstore)](https://thunderstore.io/c/lethal-company/p/FeralCompany/FeralCommon)
 
-## FeralBright
+## [FeralBright](https://github.com/FeralCompany/FeralBright)
 
 A simple plugin with various methods of lighting up the facility.
 
@@ -18,7 +18,7 @@ A simple plugin with various methods of lighting up the facility.
 [![Latest Version](https://img.shields.io/thunderstore/v/FeralCompany/FeralBright?style=for-the-badge&logo=thunderstore)](https://thunderstore.io/c/lethal-company/p/FeralCompany/FeralBright)
 [![Total Downloads](https://img.shields.io/thunderstore/dt/FeralCompany/FeralBright?style=for-the-badge&logo=thunderstore)](https://thunderstore.io/c/lethal-company/p/FeralCompany/FeralBright)
 
-## FeralMinimap
+## [FeralMinimap](https://github.com/FeralCompany/FeralMinimap)
 
 An easier way of finding your... way.
 
